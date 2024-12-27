@@ -1,6 +1,6 @@
 # mini-chat-app
 
-A small chat application that enables multiple participants to chat together over a TCP connection
+A small chat application that enables multiple participants on the same host to chat together over a TCP connection
 
 ## Installation
 
@@ -23,5 +23,5 @@ make
 ```
 ./client
 ```
-3. Create each new client connection in separate sessions.
+3. Create each new client connection in a separate session.
 
